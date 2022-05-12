@@ -1,1 +1,2 @@
-
+Code to be uploaded to the Arduino Nano 33 iOT boards for each module. Make sure you have the correct libraries installed for each module - they will all be
+available through the Arduino IDE.
